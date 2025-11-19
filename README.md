@@ -6,8 +6,8 @@
 - [x] 💃🏻 无线电技术；
 
 
-# リポジトリ内容
-- [x] 🎉 PDF BOOK；
-- [x] 🍀 ロボットコントロール；
-- [x] 🏁 ネットセキュリティツール、Shellcode暗号化、；
-- [x] 💃🏻 電波技術；
+# Repository
+- [x] 🎉 Pdf Book;
+- [x] 🍀 Robot Controller;
+- [x] 🏁 Net Space Security;
+- [x] 💃🏻 blockchain;
